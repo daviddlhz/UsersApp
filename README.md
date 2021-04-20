@@ -1,5 +1,5 @@
 # Simple React App
 
-## Only get data with axios and print in a list!
+## Only get data with axios and print in a component!
 
 ## By DavidDlhz </>
